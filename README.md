@@ -4,13 +4,19 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfadilfalakawan)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents+%F0%9F%A4%96;Crafting+Production+RAG+Pipelines+%F0%9F%94%8D;LangChain+%7C+LangGraph+%7C+CrewAI+Expert+%E2%9C%A8;Shipping+Real+AI+Products+%F0%9F%9A%80;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-## 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfadilfalakawan)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge&logo=vercel&logoColor=white)](#)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfadilfalakawan@gmail.com)
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🛠️ Tech Stack
 
 [![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)&nbsp;[![LangGraph](https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)&nbsp;[![LangSmith](https://img.shields.io/badge/LANGSMITH-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://smith.langchain.com)&nbsp;[![n8n](https://img.shields.io/badge/N8N-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)&nbsp;[![CrewAI](https://img.shields.io/badge/CREWAI-d4322c?style=for-the-badge&logoColor=white)](https://crewai.com)&nbsp;[![AutoGen](https://img.shields.io/badge/AUTOGEN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.github.io/autogen)&nbsp;[![MCP](https://img.shields.io/badge/MCP-6B21A8?style=for-the-badge&logoColor=white)](https://modelcontextprotocol.io)&nbsp;[![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 
@@ -20,8 +26,47 @@
 
 [![Apache Kafka](https://img.shields.io/badge/APACHE%20KAFKA-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org)&nbsp;[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com)&nbsp;[![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)&nbsp;[![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)&nbsp;[![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)&nbsp;[![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)&nbsp;[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
+</div>
+
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=fadil013&style=for-the-badge&color=555555&label=PROFILE+VIEWS)](https://github.com/fadil013)&nbsp;[![GitHub followers](https://img.shields.io/github/followers/fadil013?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717)](https://github.com/fadil013?tab=followers)
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=fadil013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0117&title_color=a78bfa&icon_color=a78bfa&text_color=94a3b8&ring_color=a78bfa" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0117&title_color=a78bfa&text_color=94a3b8" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fadil013&theme=tokyonight&hide_border=true&background=0d0117&stroke=a78bfa&ring=a78bfa&fire=7c6fa0&currStreakLabel=a78bfa" width="600"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=fadil013&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fadil013&bg_color=0d0117&color=a78bfa&line=7c6fa0&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=fadil013&style=for-the-badge&color=7c6fa0&label=PROFILE+VIEWS)](https://github.com/fadil013)&nbsp;[![GitHub followers](https://img.shields.io/github/followers/fadil013?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717)](https://github.com/fadil013?tab=followers)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a89cc8,50:7c6fa0,100:4a3f6b&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
